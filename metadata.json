@@ -1,0 +1,6 @@
+{
+  "name": "OneLine AI",
+  "description": "Turn long messages, announcements, emails and notes into concise summaries and clear next actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
